@@ -15,17 +15,17 @@ class BuyIt extends StatelessWidget {
             children: [
               const SizedBox(width: double.infinity),
               Text(
-                "Buy it for complete code!",
+                "Buy it for complete!",
                 style: Theme.of(context).textTheme.headline6,
               ),
               const SizedBox(height: defaultPadding * 2),
               const Text.rich(
                 TextSpan(
-                    text: "URL: ",
+                    text: "URL: https://linktr.ee/elio.fernandes28",
                     style: TextStyle(fontWeight: FontWeight.bold),
                     children: [
                       TextSpan(
-                        text: "theflutterway.gumroad.com",
+                        text: "mvfernando.com",
                         style: TextStyle(
                           color: primaryColor,
                           fontWeight: FontWeight.normal,
