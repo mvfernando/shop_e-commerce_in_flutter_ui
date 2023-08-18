@@ -8,7 +8,7 @@ I present this project, is this a Shop E-commerce UI responsive. I show you this
 
 ## Getting Started
 
-### Image 1
+### Screens
 
 ...
 
